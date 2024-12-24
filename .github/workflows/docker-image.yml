@@ -28,4 +28,4 @@ jobs:
           context: ../
           file: Dockerfile
           push: true
-          tags: github.com/gogf21/shell:latest
+          tags: gogf21/shell:latest
